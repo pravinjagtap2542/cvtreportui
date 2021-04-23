@@ -1,9 +1,9 @@
 {
-  "main.css": "/cvtreportui/static/css/main.a10ddcc7.chunk.css",
-  "main.js": "/cvtreportui/static/js/main.28d0e74a.chunk.js",
-  "main.js.map": "/cvtreportui/static/js/main.28d0e74a.chunk.js.map",
-  "static/js/1.085ff856.chunk.js": "/cvtreportui/static/js/1.085ff856.chunk.js",
-  "static/js/1.085ff856.chunk.js.map": "/cvtreportui/static/js/1.085ff856.chunk.js.map",
+  "main.css": "/cvtreportui/static/css/main.04a829c0.chunk.css",
+  "main.js": "/cvtreportui/static/js/main.6c236363.chunk.js",
+  "main.js.map": "/cvtreportui/static/js/main.6c236363.chunk.js.map",
+  "static/js/1.79e42a55.chunk.js": "/cvtreportui/static/js/1.79e42a55.chunk.js",
+  "static/js/1.79e42a55.chunk.js.map": "/cvtreportui/static/js/1.79e42a55.chunk.js.map",
   "runtime~main.js": "/cvtreportui/static/js/runtime~main.538a544f.js",
   "runtime~main.js.map": "/cvtreportui/static/js/runtime~main.538a544f.js.map",
   "static/media/item1.jpg": "/cvtreportui/static/media/item1.6c426583.jpg",
@@ -11,8 +11,9 @@
   "static/media/item3.jpg": "/cvtreportui/static/media/item3.9bd2546f.jpg",
   "static/media/item4.jpg": "/cvtreportui/static/media/item4.65bc33d7.jpg",
   "static/media/item6.jpg": "/cvtreportui/static/media/item6.f5fd97b5.jpg",
-  "static/css/main.a10ddcc7.chunk.css.map": "/cvtreportui/static/css/main.a10ddcc7.chunk.css.map",
+  "static/media/footer.scss": "/cvtreportui/static/media/avaya-logo-red.d31cb04f.svg",
+  "static/css/main.04a829c0.chunk.css.map": "/cvtreportui/static/css/main.04a829c0.chunk.css.map",
   "index.html": "/cvtreportui/index.html",
-  "precache-manifest.ac50f88ef992c25798b6911e6ec01d65.js": "/cvtreportui/precache-manifest.ac50f88ef992c25798b6911e6ec01d65.js",
+  "precache-manifest.554799e69e1c4027c71ab50cdb545093.js": "/cvtreportui/precache-manifest.554799e69e1c4027c71ab50cdb545093.js",
   "service-worker.js": "/cvtreportui/service-worker.js"
 }

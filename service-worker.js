@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cvtreportui/precache-manifest.ac50f88ef992c25798b6911e6ec01d65.js"
+  "/cvtreportui/precache-manifest.554799e69e1c4027c71ab50cdb545093.js"
 );
 
 workbox.clientsClaim();
